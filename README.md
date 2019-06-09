@@ -12,4 +12,4 @@
 
 ## 3. Association rules
 - lift, confidence
-1. [A Priori (FP growth)] (https://github.com/krisuety/Instacart_Recommendation_Sytem/tree/master/association_rules)
+1. [A Priori (FP growth)](https://github.com/krisuety/Instacart_Recommendation_Sytem/tree/master/association_rules)
