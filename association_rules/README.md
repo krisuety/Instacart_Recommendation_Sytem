@@ -12,7 +12,7 @@
 
 
 ### confidence
-$$
+
 <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
   <mi>c</mi>
   <mi>o</mi>
@@ -47,7 +47,7 @@ $$
     </mrow>
   </mfrac>
 </math>
-$$
+
 
 | |  antecedent                                                       |    consequent                                        | confidence |   lift     |
 |:------------  |:------------|:------------|:------------|:------------|
