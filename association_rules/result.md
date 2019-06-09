@@ -4,6 +4,7 @@
 |:------------  |:------------|:------------|:------------|:------------|
 
 |0 |            Dairy Free Greek Yogurt Strawberry    |         Dairy Free Greek Yogurt Blueberry  |  0.492777 | 2593.758705|
+|:------------  |:------------|:------------|:------------|:------------|
 |1 |            [Dairy Free Greek Yogurt Blueberry]        |     [Dairy Free Greek Yogurt Strawberry]  | 0.528399 | 2593.758705|
 |2 |         [Grassfed Whole Milk Strawberry Yogurt]  |[Organic Strawberry Grassfed Whole Milk Yogurt] |   0.495298 | 2127.363901|
 |3 | [Organic Strawberry Grassfed Whole Milk Yogurt] |         [Grassfed Whole Milk Strawberry Yogurt]  |  0.443820 | 2127.363901|
