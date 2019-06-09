@@ -13,41 +13,6 @@
 
 ### confidence
 
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-  <mi>c</mi>
-  <mi>o</mi>
-  <mi>n</mi>
-  <mi>f</mi>
-  <mi>i</mi>
-  <mi>d</mi>
-  <mi>e</mi>
-  <mi>n</mi>
-  <mi>c</mi>
-  <mi>e</mi>
-  <mo stretchy="false">(</mo>
-  <mi>A</mi>
-  <mo stretchy="false">&#x2192;<!-- → --></mo>
-  <mi>B</mi>
-  <mo stretchy="false">)</mo>
-  <mo>=</mo>
-  <mfrac>
-    <mrow>
-      <mi>P</mi>
-      <mo stretchy="false">(</mo>
-      <mi>A</mi>
-      <mo>,</mo>
-      <mi>B</mi>
-      <mo stretchy="false">)</mo>
-    </mrow>
-    <mrow>
-      <mi>P</mi>
-      <mo stretchy="false">(</mo>
-      <mi>A</mi>
-      <mo stretchy="false">)</mo>
-    </mrow>
-  </mfrac>
-</math>
-
 
 | |  antecedent                                                       |    consequent                                        | confidence |   lift     |
 |:------------  |:------------|:------------|:------------|:------------|
