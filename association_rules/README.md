@@ -1,5 +1,7 @@
+### (shell) pyspark --driver-memory 10g
 
-# lift
+
+### lift
 | | antecedent                                    |    consequent                               |     confidence  | lift|
 |:------------  |:------------|:------------|:------------|:------------|
 |0|            Dairy Free Greek Yogurt Strawberry |         Dairy Free Greek Yogurt Blueberry   |  0.492777 | 2593.758705|
@@ -9,7 +11,7 @@
 |4|      Organic Cashew Nondairy Blueberry Yogurt |  Organic Nondairy Strawberry Cashew Yogurt  |  0.616129 | 2061.488198|
 
 
-# confidence
+### confidence
 | |  antecedent                                                       |    consequent                                        | confidence |   lift     |
 |:------------  |:------------|:------------|:------------|:------------|
 |0| Oh My Yog! Organic Wild Quebec Blueberry Cream Top Yogurt & Fruit | oh My Yog! Pacific Coast Strawberry Trilayer Yogurt  |   0.661383 | 707.942415 |
