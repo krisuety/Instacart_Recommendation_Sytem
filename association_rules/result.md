@@ -1,6 +1,6 @@
 
 # lift
-|  | antecedent                                   |    consequent             |                           confidence  | lift|
+| num | antecedent                                   |    consequent             |                   confidence  | lift|
 |:------------  |:------------|:------------|:------------|:------------|
 
 |0 |            [Dairy Free Greek Yogurt Strawberry]     |         [Dairy Free Greek Yogurt Blueberry]  |  0.492777 | 2593.758705|
