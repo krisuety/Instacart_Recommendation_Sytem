@@ -1,6 +1,6 @@
 
 # lift
-| num | antecedent                                   |    consequent             |                   confidence  | lift|
+|num| antecedent                                   |    consequent             |                   confidence  | lift|
 |:------------  |:------------|:------------|:------------|:------------|
 |0 |            Dairy Free Greek Yogurt Strawberry    |         Dairy Free Greek Yogurt Blueberry  |  0.492777 | 2593.758705|
 |1 |            [Dairy Free Greek Yogurt Blueberry]        |     [Dairy Free Greek Yogurt Strawberry]  | 0.528399 | 2593.758705|
@@ -10,7 +10,7 @@
 
 
 # confidence
-    antecedent                                                           consequent                                               confidence     lift
+|num| antecedent                                   |    consequent             |                   confidence  | lift|
 0 [Oh My Yog! Organic Wild Quebec Blueberry Cream Top Yogurt & Fruit] [Oh My Yog! Pacific Coast Strawberry Trilayer Yogurt]        0.661383   707.942415
 1                [Grain Free Turkey Canned Cat Food]                    [Grain Free Chicken Formula Cat Food]                      0.645418  1087.476896
 2       [Organic Cottage Cheese Blueberry Acai Chia]                    [Organic Strawberry Grassfed Whole Milk Yogurt]            0.616210  1618.940833
